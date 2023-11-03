@@ -25,3 +25,4 @@ For a live demo of the QR Code Generator, please visit [here](https://sufianadna
 
 - HTML
 - CSS
+- JavaScript
