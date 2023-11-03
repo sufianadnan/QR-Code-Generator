@@ -1,7 +1,7 @@
 # QR Code Generator
 
 This is a simple web-based QR code generator. You can enter text or a URL, and it will generate a QR code for you.
-For a live demo of the QR Code Generator, please visit [here](#add-your-link-here)
+For a live demo of the QR Code Generator, please visit [here](https://sufianadnan.github.io/QR-Code-Generator/)
 ## Features
 
 - Easy-to-use interface
